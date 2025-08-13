@@ -1,1 +1,2 @@
 This is first project oh git 
+git is connection between vs code and github platform 
