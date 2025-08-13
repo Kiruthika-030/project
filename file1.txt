@@ -1,2 +1,0 @@
-This is second project on git 
-git is connection between vs code and github platform 
